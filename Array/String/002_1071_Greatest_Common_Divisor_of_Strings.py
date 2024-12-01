@@ -20,12 +20,12 @@ str1 = "ABCABC"
 str2 = "ABC"
 print( solution.gcdOfStrings(str1, str2))
 
-solution = Solution()
+
 str1 = "ABABAB"
 str2 = "AB"
 print( solution.gcdOfStrings(str1, str2))
 
-solution = Solution()
+
 str1 = "LEET"
 str2 = "CODE"
 print( solution.gcdOfStrings(str1, str2))
